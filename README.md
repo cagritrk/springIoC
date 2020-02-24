@@ -74,3 +74,7 @@ public void create() {
   database.add();	
 }
 ```
+# Using Annotation 
+
+You can also do same thing using annotations
+[Click here to see Using Annotation barnch](https://github.com/cagritrk/springIoC/tree/usingAnnotation)
