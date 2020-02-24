@@ -1,5 +1,8 @@
 package dao;
 
+import org.springframework.stereotype.Component;
+
+@Component("Oracle")
 public class OracleSqlApplicationDao implements IApplicationDao {
 
 	@Override
